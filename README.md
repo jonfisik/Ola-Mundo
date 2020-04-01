@@ -1,2 +1,2 @@
-# Ola Mundo
- Livrando-se da maldição
+# Olá Mundo
+ Livrando-se finalmente da maldição!
