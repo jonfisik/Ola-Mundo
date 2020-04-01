@@ -2,4 +2,4 @@
 
  Livrando-se finalmente da maldição!
  
-Linha alterada diretamente no GitHub.
+Linha alterada diretamente no GitHub. Alteração remota.
